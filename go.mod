@@ -6,6 +6,7 @@ require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2 // indirect
 	github.com/IBM/sarama v1.41.3
+	github.com/Shopify/sarama v1.29.1 // indirect
 	github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5
 	github.com/asim/go-micro/plugins/broker/kafka/v3 v3.7.0
 	github.com/asim/go-micro/plugins/registry/etcd/v3 v3.7.0
